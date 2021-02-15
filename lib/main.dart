@@ -9,7 +9,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter App',
+      title: 'DeliMeals',
+      theme: ThemeData(primarySwatch: Colors.blue),
       home: MyHomePage(),
     );
   }
@@ -25,9 +26,9 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter App'),
+        title: Text('DeliMeals'),
       ),
-      body: Center(child: Text('Widget Playground')),
+      body: Center(child: Text('Navigation Time!')),
     );
   }
 }
