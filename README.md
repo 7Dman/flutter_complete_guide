@@ -17,6 +17,6 @@
 |  Project Name  |  Image  |  What to learn  |  Git Branch Name  |
 | ---- | ---- | ---- | ---- |
 |  Quiz App  |  TD  |  Basic Flutter Usage  |  master  |
-|  Personal Expense Tracker  |  TD  |  More Flutter Usage  |  personal-expenses  |
+|  Personal Expense Tracker  |  TD  |  Adaptive & Responsive Layout  |  personal-expenses  |
 |  Meals App  |  TD  |  Screen Navigation  |  meals-app  |
 
