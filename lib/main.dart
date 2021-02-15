@@ -24,9 +24,11 @@ class MyApp extends StatelessWidget {
                   fontSize: 20,
                   fontFamily: 'RobotoCondensed',
                   fontWeight: FontWeight.bold))),
-      home: CategoriesScreen(),
+      // home: CategoriesScreen(),
+      initialRoute: '/', // default is '/'
       routes: {
-        '/category-meals': (ctx) => CategoryMealsScreen(),
+        '/': (ctx) => CategoriesScreen(),
+        CategoryMealsScreen.routeName: (ctx) => CategoryMealsScreen(),
       },
     );
   }
