@@ -19,5 +19,5 @@
 |  Quiz App  |  TD  |  Basic Flutter Usage  |  master  |
 |  Personal Expense Tracker  |  TD  |  Adaptive & Responsive Layout  |  personal-expenses  |
 |  Meals App  |  TD  |  Screen Navigation  |  meals-app  |
-|  Shop App  |  TD  |  State Management - Provider pkg, Form Validation, HTTP Request, Animation and etc  |  shop-app  |
+|  Shop App  |  TD  |  State Management - Provider pkg, Form Validation, HTTP Request, Authetication, Animation and etc  |  shop-app  |
 
